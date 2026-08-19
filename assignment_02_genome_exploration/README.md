@@ -26,8 +26,7 @@ distribution, a length-filtering experiment, and a small ORF-finding exercise.
 
 ## Galaxy History
 - History name: `Genome_Exploration_II_FERRER_Homo_sapiens`
-- [Insert shared Galaxy History link here, if required by instructor]
-
+- https://usegalaxy.org/published/workflow?id=2d67ed7a1dabae7b
 ## Summary Statistics (Original Genome)
 - Number of sequences: 785
 - Scaffold N50: 145,136,636 bp
